@@ -1,4 +1,4 @@
-# Título do Projeto
+# Biscoitos Bom Chefe
 
 `CURSO: Sistemas de Informação`
 
@@ -18,5 +18,5 @@ O projeto de conclusão de curso visa analisar e propor melhorias para a microem
 
 ## Orientador
 
-* Nome completo do professor 1
+* Simone Queiroz
 
