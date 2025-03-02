@@ -6,17 +6,15 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto de conclusão de curso visa analisar e propor melhorias para a microempresa Biscoitos Bom Chefe, especializada na produção artesanal de biscoitos caseiros, com o objetivo de modernizar seus processos internos, como produção, controle de estoque, vendas e finanças, que atualmente são realizados de forma manual. A proposta envolve a implementação de soluções tecnológicas, como um sistema integrado de gestão (ERP), CRM e Business Intelligence (BI), para otimizar a eficiência operacional, melhorar a gestão da informação e permitir o crescimento sustentável da empresa, sem perder sua essência artesanal. O estudo também inclui a análise do mercado de alimentos artesanais, considerando desafios e oportunidades para a expansão e competitividade da empresa.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
-
+* Amanda Linhares 
+* Frederico Schirmer 
+* Joice Melo
+* Luiz Rubioli 
+* Rômulo Medeiros
 
 ## Orientador
 
